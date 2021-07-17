@@ -15,3 +15,7 @@ It's repository located here: [https://github.com/mmcgrana/gobyexample](https://
 ## License
 
 This work is copyright Alex Teterkin and licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+
+## List of examples
+
+1. [hello-world](examples/hello-world)
