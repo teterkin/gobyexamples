@@ -19,3 +19,4 @@ This work is copyright Alex Teterkin and licensed under a [Creative Commons Attr
 ## List of examples
 
 1. [hello-world](examples/hello-world)
+1. [values](examples/values)
