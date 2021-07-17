@@ -26,3 +26,4 @@ This work is copyright Alex Teterkin and licensed under a [Creative Commons Attr
 1. [if-else](examples/if-else)
 1. [switch](examples/switch)
 1. [arrays](examples/arrays)
+1. [slices](examples/slices)
