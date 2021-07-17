@@ -22,3 +22,4 @@ This work is copyright Alex Teterkin and licensed under a [Creative Commons Attr
 1. [values](examples/values)
 1. [variables](examples/variables)
 1. [constant](examples/constant)
+1. [far](examples/far)
