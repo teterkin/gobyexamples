@@ -28,3 +28,4 @@ This work is copyright Alex Teterkin and licensed under a [Creative Commons Attr
 1. [arrays](examples/arrays)
 1. [slices](examples/slices)
 1. [maps](examples/maps)
+1. [range](examples/range)
