@@ -29,4 +29,5 @@ This work is copyright Alex Teterkin and licensed under a [Creative Commons Attr
 1. [slices](examples/slices)
 1. [maps](examples/maps)
 1. [range](examples/range)
+1. [functions](examples/functions)
 1. [multiple-return-values](examples/multiple-return-values)
