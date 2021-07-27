@@ -33,3 +33,4 @@ This work is copyright Alex Teterkin and licensed under a [Creative Commons Attr
 1. [multiple-return-values](examples/multiple-return-values)
 1. [variadic-functions](examples/variadic-functions)
 1. [closures](examples/closures)
+1. [recursion](examples/recursion)
